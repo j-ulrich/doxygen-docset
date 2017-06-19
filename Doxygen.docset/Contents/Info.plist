@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+     <key>CFBundleName</key>
+     <string>Doxygen</string>
+     <key>CFBundleIdentifier</key>
+     <string>org.doxygen.Project</string>
+     <key>CFBundleVersion</key>
+     <string>ProjectNumber</string>
+     <key>DocSetFeedName</key>
+     <string>com.github.j-ulrich.doxygen-docset</string>
+     <key>DocSetPublisherIdentifier</key>
+     <string>com.github.j-ulrich</string>
+     <key>DocSetPublisherName</key>
+     <string>Jochen Ulrich</string>
+     <key>DashDocSetFamily</key>
+     <string>doxy</string>
+     <key>DocSetPlatformFamily</key>
+     <string>doxygen</string>
+     <key>dashIndexFilePath</key>
+     <string>index.html</string>
+</dict>
+</plist>

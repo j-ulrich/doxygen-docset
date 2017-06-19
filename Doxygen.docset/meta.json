@@ -1,0 +1,12 @@
+{
+    "extra": {
+        "keywords": [
+            "doxygen"
+        ]
+    },
+    "name": "Doxygen",
+    "revision": "0",
+    "sourceId": "com.github.j-ulrich.doxygen-docset",
+    "title": "Doxygen",
+    "version": "1.8.13"
+}
