@@ -11,7 +11,7 @@ were created/modified manually.
 ## Usage
 
 ### Zeal
-Simply copy the _Doxygen.docset_ directory into your "Docset storage directory".    
+Simply copy the _Doxygen.docset_ directory into your "Docset storage directory" and restart Zeal.
 You can find the path of the directory in Zeal → Edit → Preferences → Doc storage → Directory
 
 ## License
